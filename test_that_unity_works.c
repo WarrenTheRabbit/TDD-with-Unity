@@ -1,3 +1,7 @@
+void test_that_something_happens()
+{
+}
+
 int main(void)
 {
 	UNITY_BEGIN();
