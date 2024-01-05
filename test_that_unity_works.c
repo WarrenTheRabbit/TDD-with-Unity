@@ -1,3 +1,5 @@
+#include "unity.h"
+
 void test_that_something_happens()
 {
 }
