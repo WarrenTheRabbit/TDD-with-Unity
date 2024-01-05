@@ -4,6 +4,14 @@ void test_that_something_happens()
 {
 }
 
+void setUp(void)
+{
+}
+
+void tearDown(void)
+{
+}
+
 int main(void)
 {
 	UNITY_BEGIN();
